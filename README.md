@@ -68,4 +68,7 @@ function Example() {
   const [count, setCount] = useState(0);``
  
  We declare a state variable called count, and set it to 0. React will remember its current value between re-renders, and provide the most recent one to our function. If we want to update the current count, we can call setCount.
+ 
+## Example
+click <a href="https://6ew9p.csb.app/">HERE</a> to see this in action.
 
