@@ -7,6 +7,7 @@ Created with CodeSandbox. Using the State Hook.
 
 ## Examples:
 Here we just have a button that changes it’s color on click. I’ll start with the imperative example:
+
 ``const container = document.getElementById(‘container’);
 const btn = document.createElement(‘button’);
 btn.className = ‘btn red’;
